@@ -1,0 +1,184 @@
+div#image {
+    text-align: center;
+}
+
+div#login {
+    text-align: right;
+}
+
+img {
+    width: 900;
+    background-repeat: no-repeat;
+}
+
+section#notes {
+    font-family: cursive
+}
+
+a#first {
+    background-color: white;
+    color: blue;
+    font-size: 40;
+    list-style-type: none;
+    text-decoration: none;
+    border-style: groove;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+a#first:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+a#second {
+    background-color: white;
+    color: blue;
+    font-size: 40;
+    border-style: groove;
+    text-decoration: none;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 25px
+}
+
+a#second:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+a#third {
+    background-color: white;
+    color: blue;
+    text-align: justify;
+    font-size: 40;
+    border-style: groove;
+    text-decoration: none;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: white;
+}
+
+a#third:hover {
+    background-color: black;
+    border-color: white;
+    color: white;
+}
+
+a#home {
+    background-color: blue;
+    color: white;
+    align-content: space-between;
+    font-size: 25;
+    list-style-type: none;
+    text-decoration: none;
+    border-style: double;
+    border-radius: 10px;
+}
+
+a#contact {
+    background-color: blue;
+    color: white;
+    align-content: space-between;
+    font-size: 25;
+    list-style-type: none;
+    text-decoration: none;
+    border-style: double;
+    border-radius: 10px;
+}
+
+a#home:hover {
+    border-color: white;
+    background-color: black;
+}
+
+a#register:hover {
+    border-color: white;
+    background-color: black;
+}
+
+a#contact:hover {
+    background-color: black;
+    border-color: white;
+}
+
+a#register {
+    background-color: blue;
+    color: white;
+    align-content: space-between;
+    font-size: 25;
+    list-style-type: none;
+    text-decoration: none;
+    border-style: double;
+    border-radius: 10px;
+}
+
+li {
+    position: relative
+}
+
+p {
+    position: inherit;
+}
+
+h1#parag {
+    color: black;
+    align-content: left;
+    font-size: 20;
+}
+
+h1#head {
+    font-size: 35;
+    text-align: center;
+}
+
+nav#all {
+    backface-visibility: visible;
+    height: 60;
+    text-align: center;
+    height: inherit;
+    background-color: dodgerblue;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+a#name {
+    text-align: left;
+    float: left;
+    font-size: 30;
+    font-family: sans-serif;
+}
+
+nav#navigations {
+    margin: 40px;
+    color: blue;
+    height: 45;
+    text-align: right;
+}
+
+section#head {
+    color: black;
+    text-decoration-color: aquamarine;
+}
+
+footer {
+    text-align: center;
+    color: black;
+    font-size: 18
+}
+
+li#footer {
+    list-style-type: georgian;
+}
+
+form {
+    align-content: center;
+    background-color: white;
+}
